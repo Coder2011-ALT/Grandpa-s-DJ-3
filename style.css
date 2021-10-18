@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  border-radius: 20px;
+  box-shadow: 7px 7px 7px aquamarine;
+}
+
+canvas {
+  border: 2px dashed purple;
+  box-shadow: 2px 2px 2px grey;
+}
